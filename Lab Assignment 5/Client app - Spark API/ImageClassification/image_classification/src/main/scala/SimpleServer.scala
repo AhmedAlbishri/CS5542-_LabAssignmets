@@ -17,6 +17,7 @@ import unfiltered.request._
   * Created by sudhakar on 2/10/17.
   */
 
+//This Simple Server wont work with Android..
 object SimplePlan extends Plan {
   def intent = {
     case req@GET(Path("/get")) => {
@@ -33,6 +34,7 @@ object SimplePlan extends Plan {
   }
 }
 object SimpleServer extends App {
+                                    //localhost or wihtout IP
   val bindingIP = SocketPortBinding(host = "127.0.0.1", port = 8080)
   unfiltered.jetty.Server.portBinding(bindingIP).plan(SimplePlan).run()
 }
