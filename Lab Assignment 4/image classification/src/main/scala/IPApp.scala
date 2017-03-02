@@ -246,7 +246,7 @@ object IPApp {
     //println(nbModel.labels.mkString(" "))
 
     val p = nbModel.predict(histogram)
-    //    println(s"Predicting test image : " + IMAGE_CATEGORIES(p.toInt))
+
 
     p
   }
@@ -317,7 +317,7 @@ object IPApp {
       (ff(0).toDouble, ff(1).toDouble)
     })
     val accuracy = 1.0 * pRDD.filter(x => x._1 == x._2).count() / testImages.count
-
+    //Show accuracy of Model
     println("Accuracy: " + accuracy)
     ModelEvaluation.evaluateModel(pRDD)
 
