@@ -1,6 +1,6 @@
 <resources>
-    <string name="clarifai_id">gka6Snufzo1PCGh7NpwBNDsXHvajsNi35-bwV_4p</string>
-    <string name="clarifai_secret">vZNcA0J5q40Sz5uSOl-d3KdBdibskwFN4HwjYQjW</string>
+    <string name="clarifai_id">KEY HERE</string>
+    <string name="clarifai_secret">KEY-HERE</string>
 
     <string name="app_name">Clarifai v2 API Starter</string>
 
