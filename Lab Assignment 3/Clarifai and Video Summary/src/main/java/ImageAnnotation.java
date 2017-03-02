@@ -25,7 +25,7 @@ import java.util.Set;
 
 public class ImageAnnotation {
     public static void main(String[] args) throws IOException {
-        final ClarifaiClient client = new ClarifaiBuilder("gka6Snufzo1PCGh7NpwBNDsXHvajsNi35-bwV_4p", "vZNcA0J5q40Sz5uSOl-d3KdBdibskwFN4HwjYQjW")
+        final ClarifaiClient client = new ClarifaiBuilder("App-Key", "Secret-Key")
                 .client(new OkHttpClient()) // OPTIONAL. Allows customization of OkHttp by the user
                 .buildSync(); // or use .build() to get a Future<ClarifaiClient>
         client.getToken();
