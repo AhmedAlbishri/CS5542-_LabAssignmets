@@ -1,0 +1,79 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/.idea/ShowAndTell.iml
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/.idea/inspectionProfiles/profiles_settings.xml
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/.idea/misc.xml
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/.idea/modules.xml
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/.idea/workspace.xml
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/1112223334.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/11223344.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/123456.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/12345677.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/12345688.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/build_data.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/configuration.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_captions/captions.json
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/10815824_2997e03d76.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/12830823_87d2654e31.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/17273391_55cfc7d3d4.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/19212715_20476497a3.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/23445819_3a458716c1.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/27782020_4dab210360.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/33108590_d685bfe51c.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/35506150_cbdb630f4f.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/3637013_c675de7705.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/36422830_55c844bc2d.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/41999070_838089137e.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/42637986_135a9786a6.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/42637987_866635edf6.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/44129946_9eeb385d77.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/44856031_0d82c2c7d1.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/47870024_73a4481f7d.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/47871819_db55ac4699.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/49553964_cee950f3ba.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/50030244_02cd4de372.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/53043785_c468d6f931.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/54501196_a9ac9d66f2.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/54723805_bcf7af3f16.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/55135290_9bed5c4ca3.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/55470226_52ff517151.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/55473406_1d2271c1f2.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/56489627_e1de43de34.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/56494233_1824005879.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/57417274_d55d34e93e.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/57422853_b5f6366081.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/flickr8k_images/667626_18933d713e.jpg
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/data/inception_v3.ckpt
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/evaluate.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_utils/BUILD
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_utils/caption_generator.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_utils/caption_generator_test.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_utils/inference_wrapper_base.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_utils/vocabulary.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/inference_wrapper.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/ops/BUILD
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/ops/image_embedding.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/ops/image_embedding_test.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/ops/image_processing.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/ops/inputs.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/pretrained_model/checkpoint
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/pretrained_model/graph.pbtxt
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/pretrained_model/model.ckpt-100000.data-00000-of-00001
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/pretrained_model/model.ckpt-100000.index
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/pretrained_model/word_counts.txt
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/run_inference.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/scrap.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/show_and_tell_model.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/test.py
+#	deleted:    ShowAndTell/Source/ShowAndTell/ShowAndTell/train.py
+#
+# Untracked files:
+#	ShowAndTell/Source/
+#
+

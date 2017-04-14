@@ -1,0 +1,8 @@
+redirect.class
+ImageDetails.class
+ImageService.class
+TutorialDetails.class
+Clarifai.class
+Data.class
+TensorFlowImageDetails.class
+VideoDetails.class
